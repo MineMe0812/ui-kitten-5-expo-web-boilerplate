@@ -1,5 +1,6 @@
 import * as eva from "@eva-design/eva";
 import { ApplicationProvider, Layout, Text } from "@ui-kitten/components";
+// import {View as Layout, Text} from 'react-native';
 import React from "react";
 import { StyleSheet } from "react-native";
 
